@@ -6,3 +6,6 @@ Integrantes:
 - Mika Pipaón Alcibar
 
 Este proyecto es un ejemplo de trabajo colaborativo con Git.
+
+
+Mika estuvo aquí.
